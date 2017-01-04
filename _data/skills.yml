@@ -1,9 +1,9 @@
 # skills section data
 - name: SQL
-  percentage: 85
+  percentage: 90
 
 - name: PLSQL
-  percentage: 65
+  percentage: 80
 
 - name: Java
   percentage: 75
