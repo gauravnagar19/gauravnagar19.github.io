@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('body').scrollspy({
         target: '.navbar-fixed-top',
-        offset: 80
+        offset: 50
     });
 
     // Page scrolling feature
