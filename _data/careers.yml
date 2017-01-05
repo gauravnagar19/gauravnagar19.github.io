@@ -13,25 +13,11 @@
     i18n: college_job
   icon: fa-book
 
- - name:
-    detail: Consultant - Capgemini
-    i18n: capgemini
-  desc:
-    detail: Developing BI Reporting in Oracle HCM Cloud.
-    i18n: capgemini_des
-  date:
-    detail: Jan. 2015
-    i18n: capgemini_date
-  job:
-    detail: BI Reporting
-    i18n: capgemini_job
-  icon: fa-cloud
-  
 - name:
-    detail: Senior Software Engineer - Capgemini
+    detail: Capgemini
     i18n: capgemini
   desc:
-    detail: Started focusing on BI Reporting and Oracle Web Pages in Oracle R12.
+    detail: Started focusing on BI Reporting in Oracle R12 and Oracle HCM Cloud.
     i18n: capgemini_des
   date:
     detail: Jan. 2014
@@ -42,7 +28,7 @@
   icon: fa-cloud
 
 - name:
-    detail: Software Engineer - Capgemini
+    detail: Capgemini
     i18n: capgemini
   desc:
     detail: In Capgemini, I started working as Oracle Technical Consultant mainly focused on ETL (Data Migration).
@@ -56,13 +42,13 @@
   icon: fa-cloud
 
 - name:
-    detail: Undergraduate education
+    detail: Graduation
     i18n: college
   desc:
-    detail: At July 2012, I graduated from college and started my IT technology tour.
+    detail: At July 2012,I graduated from college and started my IT technology tour.
     i18n: college_des
   date:
-    detail: Jul. 2012
+    detail: Jul. 2013
     i18n: college_date
   job:
     detail: Student
