@@ -1,9 +1,9 @@
 # projects section data
-- name: 'Designing Standalone E-commerce Website over Cloud (Azure Web Services) using Scalable Distributed Architecture'
+- name: 'EcommApp'
   i18n: 'ecomazure'
   url: '/gauravnagar19/EcomApp'
   img: 'static/img/landing/ecomm.jpg'
-  desc: 'Designed, configured, implemented and deployed a complete bare bone E-commerce solution over a distributed big data environment'
+  desc: 'Designed, configured, implemented and deployed a complete bare bone E-commerce solution over a distributed big data environment.'
 
 #- name: 'Jalpc'
 #  i18n: 'jalpc'
