@@ -13,20 +13,6 @@
     i18n: college_job
   icon: fa-book
 
- - name:
-    detail: Capgemini - Consultant
-    i18n: capgemini
-  desc:
-    detail: Developing BI Reports, interfaces, extensions in Oracle R12 and creating data loaders and OTBI reports in Oracle HCM Cloud.
-    i18n: capgemini_des
-  date:
-    detail: Jan. 2014
-    i18n: capgemini_date
-  job:
-    detail: BI Reporting
-    i18n: capgemini_job
-  icon: fa-cloud
-  
 - name:
     detail: Capgemini - Senior Software Engineer
     i18n: capgemini
