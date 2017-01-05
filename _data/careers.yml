@@ -13,11 +13,25 @@
     i18n: college_job
   icon: fa-book
 
+ - name:
+    detail: Capgemini - Consultant
+    i18n: capgemini
+  desc:
+    detail: Developing BI Reports, interfaces, extensions in Oracle R12 and creating data loaders and OTBI reports in Oracle HCM Cloud.
+    i18n: capgemini_des
+  date:
+    detail: Jan. 2014
+    i18n: capgemini_date
+  job:
+    detail: BI Reporting
+    i18n: capgemini_job
+  icon: fa-cloud
+  
 - name:
     detail: Capgemini - Senior Software Engineer
     i18n: capgemini
   desc:
-    detail: Started focusing on BI Reporting in Oracle R12 and Oracle HCM Cloud.
+    detail: Focusing on BI Reporting and Oracle web-page development in Oracle R12 and Oracle HCM Cloud.
     i18n: capgemini_des
   date:
     detail: Jan. 2014
@@ -31,7 +45,7 @@
     detail: Capgemini - Software Engineer
     i18n: capgemini
   desc:
-    detail: In Capgemini, I started working as Oracle Technical Consultant mainly focused on ETL (Data Migration).
+    detail: Started working as PL/SQL Developer mainly focusing on ETL (Data Migration).
     i18n: capgemini_des
   date:
     detail: Oct. 2012
